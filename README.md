@@ -26,7 +26,7 @@ topics.
 Run the Streamlit app:
 
 ```bash
-streamlit run sklearn_guide_app.py
+streamlit run streamlit_app.py
 ```
 
 The app will open in your default web browser at `http://localhost:8501`
