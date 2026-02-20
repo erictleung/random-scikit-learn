@@ -4,6 +4,8 @@ A Streamlit application that randomly displays guides from the scikit-learn
 User Guide, helping you discover and learn about different machine learning
 topics.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://randomscikitlearn.streamlit.app)
+
 ## Features
 
 - 🎲 Random guide selection from 45+ scikit-learn topics
