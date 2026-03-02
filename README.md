@@ -6,6 +6,8 @@ topics.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://randomscikitlearn.streamlit.app)
 
+<img width="1069" height="705" alt="random_scikit_learn_screenshot" src="https://github.com/user-attachments/assets/8826ff61-a02c-4263-b875-fd8bf1ad726d" />
+
 ## Features
 
 - 🎲 Random guide selection from 45+ scikit-learn topics
